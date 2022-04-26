@@ -3,9 +3,9 @@
 Program which can make a robot draw and move on an xy plane
 
 Project done by:
-Paul Westenberg
-Rifadul Haque
-Erfan Reza 
+Paul Westenberg,
+Rifadul Haque,
+Erfan Reza
 
 
 Project Description 
